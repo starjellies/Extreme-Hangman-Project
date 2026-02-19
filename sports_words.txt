@@ -1,0 +1,58 @@
+Baseball
+Softball
+Football
+Handball
+Basketball
+Volleyball
+Badminton
+Ice Hockey
+Field Hockey
+Swimming
+Wrestling
+Gymnastics
+Triathlon
+Weightlifting
+Snowboarding
+Skateboarding
+Table Tennis
+Kickboxing
+Karate
+Taekwondo
+Fencing
+Archery
+Cricket
+Lacrosse
+Mountaineering
+Orienteering
+Waterpolo
+Snowmobiling
+Rollerblading
+Surfing
+Windsurfing
+Paragliding
+Skydiving
+Handcycling
+Horseback Riding
+Bowling
+Paintball
+Judo
+Canoeing
+Kayaking
+Dragonboat
+Aerobics
+Cycling
+Motorsports
+Motocross
+Equestrian
+Paddleboarding
+Powerlifting
+Freestyle Skiing
+Speed Skating
+Soft Tennis
+Track Cycling
+Snowshoeing
+Biathlon
+Rowing
+Sailing
+Handball
+Rock Climbing
